@@ -1,0 +1,10 @@
+#what you need is : 
+ubuntu 14.04,sogou pinyin deb which download from the intnet,add fcitx framwork.
+steps
+1.download sogou pinyin input method.
+2.im-config choose fcitx
+3.restart you computer.
+4.input fcitx-config-gtk3  in terminal.
+5.unslected only show current Language.
+6.modify the default im
+7.done
